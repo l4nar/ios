@@ -1,3 +1,3 @@
 # iOS-modding
 
-don't know lmao 
+planning to turn this into something useful, like a geometry dash modloader for ios. just a placeholder for now. <3
